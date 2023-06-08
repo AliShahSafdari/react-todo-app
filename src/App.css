@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  background-color: aqua;
+  width: 250px;
+  margin: 2px auto;
+  border-radius: 10px;
+}
+
+.linethtough {
+  text-decoration: line-through;
+}
